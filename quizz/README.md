@@ -1,7 +1,7 @@
-# quizz
+# Quizz App
 
-![splash](/Screenshot_%20(1).png)
+![splash](/Screenshot1.png)
 
-![Questions](/Screenshot_%20(2).png)
+![Questions](/Screenshot2.png)
 
-![Score](/Screenshot_%20(3).png)
+![Score](/Screenshot3.png)
