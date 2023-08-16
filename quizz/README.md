@@ -1,7 +1,7 @@
 # Quizz App
 
-![splash](/Screenshot1.png)
+![splash](/quizz/Screenshot1.png)
 
-![Questions](/Screenshot2.png)
+![Questions](/quizz/Screenshot2.png)
 
-![Score](/Screenshot3.png)
+![Score](/quizz/Screenshot3.png)
